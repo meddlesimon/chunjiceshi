@@ -1,0 +1,5 @@
+{
+  "name": "26年春季  7天内新学员课表",
+  "description": "自动化学生专属课程推荐系统。将学生CSV数据转换为排版专业的PDF课程推荐方案，支持批量生成与打包下载。",
+  "requestFramePermissions": []
+}
